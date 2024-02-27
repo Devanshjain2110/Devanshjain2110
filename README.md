@@ -1,16 +1,16 @@
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devansh Jain
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonty Kamble
 ====================================================================================================================================
 
 Web Developer
 -------------
 
-Hello, I'm Devansh. I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React (Next.js).
+Hello, I'm Jonty. I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React (Next.js).
 
-* 🌍  I'm based in Ahmedabad, Gujarat, India.
-* 🖥️  See my portfolio at [DevFolio](http://devanshh.vercel.app/)
-* ✉️  You can contact me at [devanshjain2904@gmail.com](mailto:devanshjain2904@gmail.com)
+* 🌍  I'm based in Nagpur, MH, India.
+* 🖥️  See my portfolio at [DevFolio](https://bento.me/jonty)
+* ✉️  You can contact me at [jontykambleofficial@gmail.com](mailto:jontykambleofficial@gmail.com)
 * 🧠  I'm learning Backend Web development
 
 ### Skills
