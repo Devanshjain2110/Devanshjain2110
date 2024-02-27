@@ -31,7 +31,6 @@ Hello, I'm Jonty. I'm a front-end developer who is passionate about learning new
 
 <a href="http://www.github.com/Jontykamble"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jontykamble&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/devanshjain"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
 
 
